@@ -4,6 +4,7 @@
 
 ## system files
 .DS_Store
+shrinkwrap.yaml
 
 ## npm
 /node_modules/
